@@ -1,0 +1,8 @@
+Shall contain a brief text document that compares this implementation with the concept developed in Project #3. 
+Does this project fully implement its concept?
+Concepts in Project #3 OCD are fully implemented and demonstrated
+Was the original concept practical? 
+Yes OCD document is practical
+Were there things you learned during the implementation that made the origninal concept less relevant or incomplete?
+I learned
+ WCF, WPF, JSON,Repository development,Test Harness, MVVM Architecture, Command Pattern, Front Controller Pattern

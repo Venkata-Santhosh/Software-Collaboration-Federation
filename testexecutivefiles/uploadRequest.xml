@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Message>
+  <to>http://localhost:8080/RepoServices</to>
+  <from>http://localhost:8083/ClientServices</from>
+  <type>UploadRequest</type>
+  <author>santhosh</author>
+  <time>2016-11-21T02:23:28.9317792-05:00</time>
+  <body>{"metaData":[{"testDriverName":"TestDriver1.dll","version":"1.0","description":null,"dependencies":[{"dependencyFileName":"CodeToTest.dll","version":"1.0"}]},{"testDriverName":"TestDriver2.dll","version":"1.0","description":null,"dependencies":[{"dependencyFileName":"CodeToTest2.dll","version":"1.0"}]}],"author":"santhosh","basePath":"C:\\Final TestHarness Project#4\\TestHarness\\dll"}</body>
+</Message>

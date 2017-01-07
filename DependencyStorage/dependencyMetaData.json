@@ -1,0 +1,1 @@
+{"metaData":[{"testDriverName":"TestDriver1.dll","version":"1.0","description":"TestDriver","dependencies":[{"dependencyFileName":"CodeToTest.dll","version":"1.0"}]},{"testDriverName":"TestDriver2.dll","version":"1.0","description":"TestDriver","dependencies":[{"dependencyFileName":"CodeToTest2.dll","version":"1.0"}]}],"author":null,"basePath":null}

@@ -1,0 +1,29 @@
+﻿<Window x:Class="ClientGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientGUI"
+        xmlns:UserControls ="clr-namespace:ClientGUI.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="525">
+    <Grid >
+
+         
+            <TabControl>
+                <TabItem Header="RepositoryTab">
+                    <!--Repository user control will be displayed in this tab-->
+                    <UserControls:RepositoryView x:Name="RepoView"/>
+                </TabItem>
+                <TabItem Header="TestHarnessTab">
+                    <!--Test Harness user control will be displayed in this tab-->
+                    <UserControls:TestHarnessView x:Name="testHarnessView"/>
+                </TabItem>
+                <TabItem Header="ResultQueryTab">
+                    <!--Query results user control will be displayed in this tab-->
+                    <UserControls:ResultsQueryView x:Name="QueryView"/>
+                </TabItem>
+            </TabControl>
+       
+    </Grid>
+</Window>

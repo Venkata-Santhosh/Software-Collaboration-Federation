@@ -1,0 +1,9 @@
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\Client.exe
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\Client.pdb
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\ClientGUI.exe
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\CommonUtilites.dll
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\ClientGUI.pdb
+C:\Final TestHarness Project#4\TestHarness\Client\bin\Debug\CommonUtilites.pdb
+C:\Final TestHarness Project#4\TestHarness\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Final TestHarness Project#4\TestHarness\Client\obj\Debug\Client.exe
+C:\Final TestHarness Project#4\TestHarness\Client\obj\Debug\Client.pdb
