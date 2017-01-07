@@ -9,9 +9,9 @@ Read Architectural documentation for complete information about this project
 
 
 #Requirements
-.Net Framework environment
-Visual Studio 2015
-Any PDF reader
+1.  .Net Framework environment
+2.  Visual Studio 2015
+3.  Any PDF reader
 
 #How to run this project
 1.  Open Command line with administration privilege.
